@@ -1,8 +1,0 @@
-txt pour rediger un texte
-
-html c'est pour la structure de la page web
-css pour le design de la page web
-
-py sert a écrire script ou programme
-
-csv c'est du texte séparé par des virgule pour lire un format tableau

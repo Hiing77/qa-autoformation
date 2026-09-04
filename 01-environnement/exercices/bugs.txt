@@ -1,0 +1,1 @@
+un bug, c'est une défaillance, qui est le résultat non attendu lors d'une exécution

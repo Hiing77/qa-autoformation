@@ -1,0 +1,1 @@
+le cas test est composé de plusieurs pas de test, ce sont des étapes, des prérequis, un résultat attendu et le résultat attendu
