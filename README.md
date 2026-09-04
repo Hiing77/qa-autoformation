@@ -6,23 +6,21 @@ Ce dépôt retrace mon parcours d'apprentissage réalisé en **totale autonomie*
 
 ---
 
-Thèmes abordés
-
-| # | Thème | Statut | Dossier |
-|---|---|---|---|
-| 01 | Environnement de travail | ✅ Terminé | [`01-environnement/`](./01-environnement) |
-| 02 | Métier de testeuse | ⏳ En cours / À venir | `02-metier-testeuse/` |
-| 03 | Cas de test | ⏳ À venir | `03-cas-de-test/` |
-| 04 | Tickets de bug | ⏳ À venir | `04-tickets-bug/` |
-| 05 | Excel QA | ⏳ À venir | `05-excel-qa/` |
-| 06 | Bases web (HTML/CSS) | ⏳ À venir | `06-bases-web/` |
-| 07 | Terminal Linux | ⏳ À venir | `07-linux-terminal/` |
-| 08 | Algorithmique | ⏳ À venir | `08-algorithmique/` |
-| 09 | Python débutant | ⏳ À venir | `09-python-debutant/` |
-| 10 | SQL | ⏳ À venir | `10-sql/` |
-| 11 | Git & Versioning | ⏳ À venir | `11-git/` |
-| 12 | API / Postman | ⏳ À venir | `12-api-postman/` |
-| 13 | Jira + Mini-projet final | ⏳ À venir | `13-jira-projet-final/` |
+| # | Thème | Dossier |
+|---|---|---|
+| 01 | Environnement de travail | [`01 - Environnement de travail`](./01%20-%20Environnement%20de%20travail) |
+| 02 | Métier de testeuse | [`02 - Métier de testeuse`](./02%20-%20Métier%20de%20testeuse) |
+| 03 | Cas de test | [`03 - Cas de test`](./03%20-%20Cas%20de%20test) |
+| 04 | Tickets de bug | [`04 - Tickets de bug`](./04%20-%20Tickets%20de%20bug) |
+| 05 | Excel QA | [`05 - Excel QA`](./05%20-%20Excel%20QA) |
+| 06 | Bases web (HTML/CSS) | [`06 - Bases web`](./06%20-%20Bases%20web) |
+| 07 | Terminal Linux | [`07 - Terminal Linux`](./07%20-%20Terminal%20Linux) |
+| 08 | Algorithmique | [`08 - Algorithmique`](./08%20-%20Algorithmique) |
+| 09 | Python débutant | [`09 - Python débutant`](./09%20-%20Python%20débutant) |
+| 10 | SQL | [`10 - SQL`](./10%20-%20SQL) |
+| 11 | Git & Versioning | [`11 - Git`](./11%20-%20Git) |
+| 12 | API / Postman | [`12 - API et Postman`](./12%20-%20API%20et%20Postman) |
+| 13 | Jira + Mini-projet final | [`13 - Jira et mini-projet`](./13%20-%20Jira%20et%20mini-projet) |
 
 ---
 
