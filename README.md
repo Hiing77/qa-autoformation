@@ -8,15 +8,21 @@ Ce dépôt retrace mon parcours d'apprentissage réalisé en **totale autonomie*
 
 Thèmes abordés
 
-- **[Environnement & Outils](./01-environnement/)** — VS Code, terminal Linux, configuration de l'espace de travail.
-- **[Fondamentaux du Test](./02-fondamentaux-test/)** — Vocabulaire, rédaction de cas de test et gestion des tickets de bug.
-- **[Suivi QA & Campagnes](./03-suivi-qa/)** — Tableaux de suivi de test et reporting.
-- **[Bases du Web & HTML](./04-bases-web/)** — Structure d'une page web et outils d'inspection.
-- **[Algorithmique & Python](./05-python-algo/)** — Logique de programmation, scripts de test et automatisation de base.
-- **[Bases de Données (SQL)](./06-sql/)** — Requêtes et interrogation de bases de données.
-- **[Gestion de Version (Git)](./07-git/)** — Versioning, branches et collaboration.
-- **[API & Postman](./08-api-postman/)** — Tests de services web et analyse de requêtes JSON.
-- **[Projets & Cas pratiques](./09-projets/)** — Mises en situation et cycles de test complets.
+| # | Thème | Statut | Dossier |
+|---|---|---|---|
+| 01 | Environnement de travail | ✅ Terminé | [`01-environnement/`](./01-environnement) |
+| 02 | Métier de testeuse | ⏳ En cours / À venir | `02-metier-testeuse/` |
+| 03 | Cas de test | ⏳ À venir | `03-cas-de-test/` |
+| 04 | Tickets de bug | ⏳ À venir | `04-tickets-bug/` |
+| 05 | Excel QA | ⏳ À venir | `05-excel-qa/` |
+| 06 | Bases web (HTML/CSS) | ⏳ À venir | `06-bases-web/` |
+| 07 | Terminal Linux | ⏳ À venir | `07-linux-terminal/` |
+| 08 | Algorithmique | ⏳ À venir | `08-algorithmique/` |
+| 09 | Python débutant | ⏳ À venir | `09-python-debutant/` |
+| 10 | SQL | ⏳ À venir | `10-sql/` |
+| 11 | Git & Versioning | ⏳ À venir | `11-git/` |
+| 12 | API / Postman | ⏳ À venir | `12-api-postman/` |
+| 13 | Jira + Mini-projet final | ⏳ À venir | `13-jira-projet-final/` |
 
 ---
 
