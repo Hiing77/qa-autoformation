@@ -1,6 +1,6 @@
 txt pour rédiger un texte
 
-hTML, c'est pour la structure de la page web
+html, c'est pour la structure de la page web
 css pour le design de la page web
 
 py sert à écrire script ou programme
