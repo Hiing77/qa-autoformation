@@ -2,15 +2,17 @@
 
 Ce dossier regroupe mes exercices et notes sur l'installation et la prise en main de mon environnement de travail (VS Code, organisation des dossiers, extensions et terminal Linux).
 
-## Contenu
+## Contenu / Exercice
 README.md (La description du thème et la vue d'ensemble)
 
-blocages.txt (Tes difficultés et solutions)
+Creer un dossier formation-testeuse. 
 
-bugs.txt (Tes premiers bugs)
+Creer trois fichiers : notes.txt, cas-de-test.txt, bugs.txt. 
 
-cas-de-test.txt (Tes cas de test)
+Comprendre les extensions : .txt, .html, .py, .csv.
 
-note.txt (Tes notes personnelles)
+Noter les questions dans un fichier blocages.txt.
 
-De cette façon, quelqu'un qui clique sur le
+Livrable attendu : Avoir un dossier propre avec les fichiers de base et quelques notes personnelles. 
+
+Bonus facultatif : Creer une arborescence avec un dossier par module.
