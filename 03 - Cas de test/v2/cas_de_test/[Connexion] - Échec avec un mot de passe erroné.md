@@ -1,0 +1,35 @@
+Priorité : High
+Description
+
+📋 INFORMATIONS GÉNÉRALES
+ID du Cas de Test : CT-CONN-002
+
+Objectif : Vérifier l'impossibilité de se connecter avec un identifiant valide et un mot de passe incorrect.
+
+⚙️ PRÉREQUIS
+L'utilisateur possède un compte actif sur Vinted.
+
+L'utilisateur n'est pas connecté.
+
+L'utilisateur se trouve sur la page d'accueil de Vinted.
+
+👣 ÉTAPES DE REPRODUCTION
+Cliquer sur le bouton "Se connecter" ou "S'inscrire / Se connecter" en haut à droite.
+
+Saisir l'adresse email valide du compte de test dans le champ "Nom d'utilisateur ou e-mail".
+
+Saisir un mot de passe incorrect dans le champ "Mot de passe".
+
+Cliquer sur le bouton "Se connecter" pour valider le formulaire.
+
+🎯 RÉSULTAT ATTENDU
+L'utilisateur n'est pas connecté.
+
+Un message d'erreur explicite s'affiche (ex: "Nom d'utilisateur ou mot de passe incorrect").
+
+Le champ "Nom d'utilisateur ou e-mail" reste pré-rempli, tandis que le champ "Mot de passe" est vidé et surligné en rouge.
+
+💻 ENVIRONNEMENT DE TEST
+OS : Windows 11 
+
+Navigateur : Chrome (Dernière version)
