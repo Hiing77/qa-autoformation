@@ -1,0 +1,14 @@
+Définir : test, bug, anomalie, cas de test, campagne, régression.
+
+Test : l'ensemble d'un processus pour trouver un défaut.
+On vérifie que ça correspond également aux exigences et que tout fonctionne comme prévu.
+
+Bug : un bug : c'est une manière très large pour dire que ce n'est pas conforme au résultat attendu. 
+Une anomalie.
+
+Cas de test : un cas test est composé de plusieurs tests? ce sont des étapes, 
+Des prérequis, un résultat attendu.
+
+campagne : une suite de cas test
+
+Régression : lorsqu'on corrige une anomalie et qu'on voit si on n'a rien cassé d'autre à côté.
