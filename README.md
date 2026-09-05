@@ -28,4 +28,4 @@ Objectif
 Arriver en formation avec des repères solides, une culture du test affûtée et une aisance avec les outils techniques indispensables au métier de QA.
 
 ---
-*Profil en constante évolution vers l'Excellence QA !*
+Note de parcours : Certains modules comportent une version v1 (première approche réalisée un mois avant la version v2) et une version v2 (version consolidée et approfondie). L'absence d'un dossier v1 indique simplement que les travaux initiaux n'avaient pas été archivés à l'époque.
