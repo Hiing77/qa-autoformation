@@ -12,4 +12,4 @@ Cliquer sur le logo Facebook
 
 ✅ Résultat attendu La page Facebook du commercant s’affiche
 
-🛠 Environnement Navigateur Chrome
+🛠 Environnement Navigateur Chrome 
