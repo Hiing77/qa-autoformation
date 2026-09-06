@@ -13,4 +13,4 @@ Manipuler variables, if/else, boucles, fonctions, listes et dictionnaires.
 Lire les messages d'erreur sans paniquer.
 
 Livrable attendu
-Un fichier tests_python.py avec une fonction et plusieurs tests simples.
+Un fichier tests_python.py avec une fonction et plusieurs tests simples. 
