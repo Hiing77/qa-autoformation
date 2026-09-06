@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+@font-face {
+    font-family: DMSerif;
+    src: url(/Semaine6/assets/font/DMSerifDisplay-Regular.ttf);
+}
+
+/* L'étoile donne du style a TOUS les éléments */
+/* *{
+margin: 0;
+padding: 0;
+} */
+body {
+font-family: "DMSerif", serif;
+background:url(./assets/img/bg.jpg) center/cover;
+/* VH = 100% de la taille de l'écran (viewport height */
+min-height: 100vh;
+}
+
+h1{ 
+text-transform: uppercase;
+letter-spacing: 3px;
+text-align: center;
+/* Les tailles de polices doivent etre en REM  */
+font-size: 2.5rem;
+text-shadow: -4px 2px 8px #00000059;
+color: whitesmoke;
+background-color: #ba57ce67;
+font-family: "Playfair Display", serif;
+}
+
+
+main{
+    height: 500px;
+    width: 90%;
+    background: #ba57ce67;
+/* Centrer une boite */
+margin: 0 auto;
+border-radius: 15px;
+box-shadow: 0px 4px 18px #9b4cc9;
+/* Marge interieur */
+padding: 15px;
+}
+
+h2{
+    margin: 0;
+    text-align: center;
+    color: white;
+    text-shadow: -4px 2px 8px #00000059;
+    
+}
+
+
+
+
