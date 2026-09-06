@@ -1,0 +1,118 @@
+body {
+    font-family: Arial, sans-serif;
+    
+    /* 1. Lien vers ton image (adapte le nom du fichier si besoin) */
+    background-image: url('assets/background.jpg'); 
+    
+    /* 2. Centre l'image parfaitement */
+    background-position: center; 
+    
+    /* 3. Empêche l'image de se répéter en mosaïque */
+    background-repeat: no-repeat; 
+    
+    /* 4. Force l'image à couvrir tout l'écran (très important !) */
+    background-size: cover; 
+    
+    /* 5. Garde l'image fixe quand on scrolle (optionnel mais sympa) */
+    background-attachment: fixed; 
+
+    /* Conserve ces propriétés pour centrer ton formulaire */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/*Boîte de connexion*/
+.login-container {
+    /* 1. On rend le fond blanc semi-transparent */
+    background-color: rgba(255, 255, 255, 0.247); 
+    
+    /* 2. L'effet magique de flou en arrière-plan */
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px); /* Pour la compatibilité Safari/Chrome mobile */
+    
+    /* 3. Une fine bordure blanche translucide pour donner l'effet "verre" */
+    border: 1px solid rgba(255, 255, 255, 0.479);
+    
+    /* On garde le reste à l'identique */
+    padding: 30px;
+    border-radius: 12px; /* Un peu plus arrondi pour aller avec le style */
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15); /* Ombre un poil plus douce */
+    width: 350px;
+}
+
+h1 {
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #333333;
+}
+
+/*Espacement des champs*/
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #555555;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    box-sizing: border-box; /*Evite que l'input dépasse*/
+}
+
+input:focus {
+    border-color: #007bff;
+    outline: none;
+}
+
+/*Style du Bouton*/
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/*Zone de Message (Succès / Erreur)*/
+.message-box {
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 4px;
+    text-align: center;
+    font-weight: bold;
+    display: none; /*Caché tant qu'il n'y a pas de message*/
+}
+
+/*Classes dynamiques ajoutées par JavaScript*/
+.message-box.success {
+    display: block;
+    background-color: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+}
+
+.message-box.error {
+    display: block;
+    background-color: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+}

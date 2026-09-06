@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Raichu world</title>
+    <link rel="stylesheet" href="test.css">
+</head>
+<body>
+        <div class="login-container">
+
+            <!--Le titre de la page-->
+            <h1>Connexion à l'espace de test</h1>
+
+            <!--Le formulaire-->
+            <form id="loginForm">
+
+                <!--Champ Email-->
+                <div class="form-group">
+                    <label for="email">Adresse Email :</label>
+                    <!--Remarque le 'data-testid' : c'est le meilleur moyen de cibler cet input dans tes test automatisés !-->
+                    <input 
+                    type="email" 
+                    id="email" 
+                    placeholder="exemple@test.com" 
+                    required 
+                    data-testid="input-email"
+                >
+            </div>
+
+            <!--Champ Mot de passe-->
+            <div class="form-group">
+                <label for="password">Mot de passe :</label>
+                <input 
+                    type="password" 
+                    id="password" 
+                    placeholder="Votre mot de passe" 
+                    required 
+                    data-testid="input-password"
+                >
+            </div>
+
+            <!--Le bouton de soumission-->
+            <button type="submit" data-testid="btn-submit">Se connecter</button>
+        </form>
+        
+        <!--L'affichage du message (Vide par defaut, sera géné par Javascript)-->
+        <div id="message" class="message-box" data-testid="login-message"></div>
+    </div>
+
+    <!--Script pour faire fonctionner la validation (on le met en bas)-->
+    <script>
+        const form = document.getElementById('loginForm');
+        const messageDiv = document.getElementById('message');
+
+        form.addEventListener('submit', function(event) {
+            //Empêche la page de se recharger
+            event.preventDefault(); 
+            
+            const email = document.getElementById('email').value;
+            const password = document.getElementById('password').value;
+            
+            //Scénario de test : On valide uniquement si le mot de pass est "superSecu123"
+            if (email === "admin@test.com" && password === "superSecu123") {
+                messageDiv.textContent = "Connexion validée !";
+                messageDiv.className = "message-box success"; // Devient vert
+            } else {
+                messageDiv.textContent = "Mot de passe incorrect !";
+                messageDiv.className = "message-box error"; // Devient rouge
+            }
+        });
+    </script>
+
+</body>
+</html>
