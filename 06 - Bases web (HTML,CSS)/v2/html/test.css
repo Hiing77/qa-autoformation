@@ -1,8 +1,9 @@
+/*Style général de la page*/
 body {
     font-family: Arial, sans-serif;
     
     /* 1. Lien vers ton image (adapte le nom du fichier si besoin) */
-    background-image: url('assets/background.jpg'); 
+    background-image: url('background.jpg'); 
     
     /* 2. Centre l'image parfaitement */
     background-position: center; 
