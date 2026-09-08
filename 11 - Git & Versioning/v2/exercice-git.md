@@ -1,6 +1,5 @@
-## Programme réalisé (A faire cette semaine)
+## Programme réalisé
 
-* **Compréhension des notions clés :** Dépôt, commit, branche, merge, conflit et remote.
 * **Commandes de base manipulées :** 
   * `git init` (initialisation du dépôt)
   * `git status` (vérification de l'état des fichiers)
