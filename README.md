@@ -9,7 +9,7 @@ Ce dépôt retrace mon parcours d'apprentissage réalisé en **totale autonomie*
 | # | Thème | Dossier |
 |---|---|---|
 | 01 | Environnement de travail | [`01 - Environnement de travail`](./01%20-%20Environnement%20de%20travail/) |
-| 02 | Métier de testeur | [`02 - Metier de testeur`](./02%20-%20Metier%20de%20testeur/) |
+| 02 | Métier de testeuse | [`02 - Métier de testeuse`](./02%20-%20M%C3%A9tier%20de%20testeuse/) |
 | 03 | Cas de test | [`03 - Cas de test`](./03%20-%20Cas%20de%20test/) |
 | 04 | Tickets de bug | [`04 - Tickets de bug`](./04%20-%20Tickets%20de%20bug/) |
 | 05 | Excel QA | [`05 - Excel QA`](./05%20-%20Excel%20QA/) |
