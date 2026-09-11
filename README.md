@@ -16,7 +16,7 @@ Ce dépôt retrace mon parcours d'apprentissage réalisé en **totale autonomie*
 | 06 | Bases web (HTML/CSS) | [`06 - Bases web (HTML,CSS)`](./06%20-%20Bases%20web%20(HTML,CSS)/) |
 | 07 | Terminal Linux | [`07 - Terminal Linux`](./07%20-%20Terminal%20Linux/) |
 | 08 | Algorithmique | [`08 - Algorithmique`](./08%20-%20Algorithmique/) |
-| 09 | Python débutant | [`09 - Python debutant`](./09%20-%20Python%20debutant/) |
+| 09 | Python débutant | [`09 - Python débutant`](./09%20-%20Python%20d%C3%A9butant/) |
 | 10 | SQL | [`10 - SQL`](./10%20-%20SQL/) |
 | 11 | Git & Versioning | [`11 - Git et Versioning`](./11%20-%20Git%20et%20Versioning/) |
 | 12 | API / Postman | [`12 - API et Postman`](./12%20-%20API%20et%20Postman/) |
