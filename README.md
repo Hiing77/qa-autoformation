@@ -13,7 +13,7 @@ Ce dépôt retrace mon parcours d'apprentissage réalisé en **totale autonomie*
 | 03 | Cas de test | [`03 - Cas de test`](./03%20-%20Cas%20de%20test/) |
 | 04 | Tickets de bug | [`04 - Tickets de bug`](./04%20-%20Tickets%20de%20bug/) |
 | 05 | Excel QA | [`05 - Excel QA`](./05%20-%20Excel%20QA/) |
-| 06 | Bases web (HTML/CSS) | [`06 - Bases web HTML-CSS`](./06%20-%20Bases%20web%20HTML-CSS/) |
+| 06 | Bases web (HTML/CSS) | [`06 - Bases web (HTML,CSS)`](./06%20-%20Bases%20web%20(HTML,CSS)/) |
 | 07 | Terminal Linux | [`07 - Terminal Linux`](./07%20-%20Terminal%20Linux/) |
 | 08 | Algorithmique | [`08 - Algorithmique`](./08%20-%20Algorithmique/) |
 | 09 | Python débutant | [`09 - Python debutant`](./09%20-%20Python%20debutant/) |
