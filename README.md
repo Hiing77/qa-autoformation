@@ -20,7 +20,7 @@ Ce dépôt retrace mon parcours d'apprentissage réalisé en **totale autonomie*
 | 10 | SQL | [`10 - SQL`](./10%20-%20SQL/) |
 | 11 | Git & Versioning | [`11 - Git & Versioning`](./11%20-%20Git%20&%20Versioning/) |
 | 12 | API / Postman | [`12 - API Postman`](./12%20-%20API%20Postman/) |
-| 13 | Jira + Mini-projet final | [`13 - Jira - Mini-projet final`](./13%20-%20Jira%20-%20Mini-projet%20final/) |
+| 13 | Jira + Mini-projet final | [`13 - Jira et Mini-projet final`](./13%20-%20Jira%20et%20Mini-projet%20final/) |
 
 ---
 
