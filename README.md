@@ -18,9 +18,9 @@ Ce dépôt retrace mon parcours d'apprentissage réalisé en **totale autonomie*
 | 08 | Algorithmique | [`08 - Algorithmique`](./08%20-%20Algorithmique/) |
 | 09 | Python débutant | [`09 - Python débutant`](./09%20-%20Python%20d%C3%A9butant/) |
 | 10 | SQL | [`10 - SQL`](./10%20-%20SQL/) |
-| 11 | Git & Versioning | [`11 - Git et Versioning`](./11%20-%20Git%20et%20Versioning/) |
-| 12 | API / Postman | [`12 - API et Postman`](./12%20-%20API%20et%20Postman/) |
-| 13 | Jira + Mini-projet final | [`13 - Jira et Mini-projet final`](./13%20-%20Jira%20et%20Mini-projet%20final/) |
+| 11 | Git & Versioning | [`11 - Git & Versioning`](./11%20-%20Git%20&%20Versioning/) |
+| 12 | API / Postman | [`12 - API Postman`](./12%20-%20API%20Postman/) |
+| 13 | Jira + Mini-projet final | [`13 - Jira - Mini-projet final`](./13%20-%20Jira%20-%20Mini-projet%20final/) |
 
 ---
 
