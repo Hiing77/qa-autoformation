@@ -8,18 +8,18 @@ Ce dépôt retrace mon parcours d'apprentissage réalisé en **totale autonomie*
 
 | # | Thème | Dossier |
 |---|---|---|
-| 01 | Environnement de travail | [`01 - Environnement de travail`](./01%20-%20Environnement%20de%20travail) |
-| 02 | Métier de testeuse | [`02 - Métier de testeuse`](./02%20-%20Métier%20de%20testeuse) |
-| 03 | Cas de test | [`03 - Cas de test`](./03%20-%20Cas%20de%20test) |
-| 04 | Tickets de bug | [`04 - Tickets de bug`](./04%20-%20Tickets%20de%20bug) |
-| 05 | Excel QA | [`05 - Excel QA`](./05%20-%20Excel%20QA) |
-| 06 | Bases web (HTML/CSS) | [`06 - Bases web`](./06%20-%20Bases%20web) |
-| 07 | Terminal Linux | [`07 - Terminal Linux`](./07%20-%20Terminal%20Linux) |
-| 08 | Algorithmique | [`08 - Algorithmique`](./08%20-%20Algorithmique) |
-| 09 | Python débutant | [`09 - Python débutant`](./09%20-%20Python%20débutant) |
-| 10 | SQL | [`10 - SQL`](./10%20-%20SQL) |
-| 11 | Git & Versioning | [`11 - Git`](./11%20-%20Git) |
-| 12 | API / Postman | [`12 - API et Postman`](./12%20-%20API%20et%20Postman) |
+| 01 | Environnement de travail | [`01 - Environnement de travail`](./01%20-%20Environnement%20de%20travail/) |
+| 02 | Métier de testeur | [`02 - Métier de testeur`](./02%20-%20M%C3%étier%20de%20testeur/) |
+| 03 | Cas de test | [`03 - Cas de test`](./03%20-%20Cas%20de%20test/) |
+| 04 | Tickets de bug | [`04 - Tickets de bug`](./04%20-%20Tickets%20de%20bug/) |
+| 05 | Excel QA | [`05 - Excel QA`](./05%20-%20Excel%20QA/) |
+| 06 | Bases web (HTML/CSS) | [`06 - Bases web (HTML/CSS)`](./06%20-%20Bases%20web%20%28HTML-CSS%29/) |
+| 07 | Terminal Linux | [`07 - Terminal Linux`](./07%20-%20Terminal%20Linux/) |
+| 08 | Algorithmique | [`08 - Algorithmique`](./08%20-%20Algorithmique/) |
+| 09 | Python débutant | [`09 - Python débutant`](./09%20-%20Python%20d%C3%A9butant/) |
+| 10 | SQL | [`10 - SQL`](./10%20-%20SQL/) |
+| 11 | Git & Versioning | [`11 - Git & Versioning`](./11%20-%20Git%20%26%20Versioning/) |
+| 12 | API / Postman | [`12 - API / Postman`](./12%20-%20API%20-%20Postman/) |
 | 13 | Jira + Mini-projet final | [`13 - Jira + Mini-projet final`](./13%20-%20Jira%20%2B%20Mini-projet%20final/) |
 
 ---
