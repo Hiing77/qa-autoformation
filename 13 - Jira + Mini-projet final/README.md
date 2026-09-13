@@ -17,6 +17,6 @@ Faire un bilan de campagne.
 Livrable attendu
 Un dossier mini-projet-final avec cas de test, bugs et bilan.
 
-## À propos de dossier v2
+## À propos du dossier v2
 
 Cette nouvelle version marque une étape majeure dans mon parcours : je passe d'exercices académiques/personnels à une collaboration concrète en conditions réelles avec le fondateur de Cigalo, une application innovante.
